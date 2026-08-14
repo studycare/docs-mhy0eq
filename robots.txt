@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-3ybtmj.kujang138.shop/sitemap.xml
